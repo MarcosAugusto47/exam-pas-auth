@@ -1,0 +1,654 @@
+h4 {
+   color: #323232;
+}
+
+
+.app_logo {
+   width: 200px !important;
+   margin-left: 10px;
+}
+
+@media (max-width: 767px) {
+   .app_logo {
+      max-width: 200px;
+      margin-left: 0px;
+   }
+}
+
+
+#top_area {
+  margin-top: 145px;
+}
+
+#FAQ p {
+   color: grey;
+   font-size: 0.8em !important;
+   line-height: 2em !important;
+}
+
+#FAQ h4 {
+   color: #5ECCFC !important;
+   font-size: 1.25em;
+   font-weight: bolder !important;
+}
+
+#FAQ h6 {
+   color: black;
+   font-size: 1em !important;
+   font-weight: bolder !important;
+   line-height: 1.5em !important;
+}
+
+.ops_title {
+   font-size: 1.5em !important;
+   color: #5ECCFC !important;
+   font-weight: bold !important;
+}
+
+.home-cta {
+   font-size: 1.25em;
+}
+
+#inviteloginsignup
+{
+margin-top:50px !important;
+}
+
+body {
+   font-family: "Poppins";
+}
+
+.button-container {
+  position: absolute;
+  top: 20px;
+  right: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px !important;
+}
+
+.button-container a {
+  margin-right: 10px; /* Add spacing between buttons */
+  margin-bottom: 10px; /* Add spacing between rows of buttons */
+}
+
+
+.account-button {
+   font-size: 0.75em !important;
+}
+
+.blog-button {
+   font-size: 0.75em !important;
+}
+
+.app-button {
+   font-size: 0.75em !important;
+}
+
+.logout-button {
+   font-size: 0.75em !important;
+}
+
+.pack-button {
+   font-size: 0.75em !important;
+}
+
+.home-login-button {
+   font-size: 0.75em !important;
+}
+
+.home-signup-button {
+   font-size: 0.75em !important;
+}
+
+h1 {
+   font-size: 2.5em !important;
+   font-weight: bold;
+   color: #38B6FF;
+   line-height: 1.25em;
+}
+
+h2 {
+   font-size: 2em;
+}
+
+h4 {
+   font-size: 1.5em;
+   line-height: 1.5em;
+}
+
+#footer {
+   margin-top: 10px;
+   font-size: 0.75em;
+   padding: 10px;
+   text-align: center;
+}
+
+.introduction {
+   font-size: 0.75em;
+   margin-top: 50px;
+   max-width: 800px;
+}
+
+.formblock {
+   max-width: 500px;
+}
+
+#brief_description {
+   max-width: 500px;
+   margin: 0 auto;
+}
+
+.intro_text {
+   line-height: 2em;
+   font-size: 1.5em;
+}
+
+.centered-row {
+   display: flex;
+   justify-content: center;
+}
+
+button {
+   background-color: green;
+}
+
+.file-field .btn {
+   display: block;
+}
+
+.play-button {
+   margin-bottom: 10px;
+}
+
+.action-buttons {
+   position: absolute;
+   top: -10px;
+   right: -10px;
+}
+
+.large-icon {
+   font-size: 1.25em !important;
+   line-height: 15px !important;
+}
+
+.large-btn {
+   height: 30px;
+   width: 30px;
+}
+
+input[type="submit"] {
+   background-color: #4CAF50;
+   /* Green background */
+   color: white;
+   /* White text */
+   padding: 10px 20px;
+   /* Padding around the button */
+   border: none;
+   /* No border */
+   cursor: pointer;
+   /* Hand cursor on hover */
+   border-radius: 4px;
+   /* Rounded corners */
+   font-size: 16px;
+   /* Font size */
+   transition: 0.3s;
+   /* Smooth transition for hover effects */
+}
+
+/* Hover effect for the button */
+input[type="submit"]:hover {
+   background-color: #45a049;
+   /* Darker green on hover */
+}
+
+
+.icon-btn {
+   font-size: 30px !important;
+   cursor: pointer;
+   vertical-align: middle;
+   margin-left: 20px !important;
+}
+
+@media (max-width: 400px) {
+   filename {
+      max-width: 50px;
+      margin-right: 10px;
+   }
+}
+
+.icon-btn {
+   font-size: 25px !important;
+   cursor: pointer;
+   vertical-align: middle !important;
+   margin: 0px !important;
+}
+
+
+.button-group {
+   display: flex;
+   gap: 10px;
+}
+
+.select-button {
+   background-color: lightblue !important;
+   color: black;
+}
+
+.centered-content {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.dropdown-item {
+   list-style: none;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.btn-grey {
+   background-color: darkgrey;
+}
+
+.btn-green {
+   background-color: green !important;
+}
+
+.back-button {
+   position: absolute;
+   top: 20px;
+   right: 20px;
+}
+
+h3 {
+   font-size: 1.5em;
+   font-weight: 600;
+   margin-bottom: 20px;
+   color: #2196F3;
+}
+
+.account_btn {
+   font-size: 0.75em !important;
+}
+
+.mdl-button--large {
+   font-size: 1.25em !important;
+   padding: 20px !important;
+   color: white !important;
+   background-color: rgb(255, 64, 129) !important;
+   border: none !important;
+   transition: transform 0.2s ease-in-out;
+}
+
+.mdl-button--large:hover {
+   background-color: #87D8FA !important;
+   border: none !important;
+   transform: scale(1.1);
+}
+
+#type_options {
+   text-align: center;
+}
+
+.mdl-cell {
+   display: inline-block;
+   padding-bottom: 20px;
+   width: calc(50% - 10px);
+   /* -10px to allow for any potential padding or margins */
+}
+
+h3 {
+   color: #5ECCFC !important;
+}
+
+#any_type {
+   margin-top: 50px !important;
+   margin-bottom: 25px;
+   text-align: center;
+   font-weight: bold;
+   color: #5ECCFC;
+}
+
+#demo_zone {
+   text-align: center;
+}
+
+.home-cta {
+   text-align: center;
+   font-size: 1em;
+}
+
+#home_title {
+   font-size: 2em;
+}
+
+#dj_jingle {
+   max-width: 300px;
+   margin: auto;
+   display: block;
+}
+
+#promoimage
+{
+   max-width: 200px;
+   margin: auto;
+   display: block;
+}
+
+#testimonials {
+   background-color: lightblue;
+   margin-top: 50px;
+   padding: 15px;
+}
+
+#FAQ {
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-top: 40px;
+}
+
+mark {
+   background-color: #BFEFEA;
+   color: black;
+}
+
+#stripeModal h4 {
+   color: black !important;
+}
+
+
+
+#stripeModal h6 {
+   color: black !important;
+   font-size: 1em !important;
+}
+
+#userCredits_account {
+   font-size: 1em;
+}
+
+button {
+   cursor: pointer;
+}
+
+#zoomview-container,
+#overview-container {
+   width: 300px;
+   height: 75px;
+}
+
+#waveform {
+   width: 100%;
+   height: 150px;
+}
+
+#tips {
+   margin-top:30px;
+   font-size: 0.75em;
+   border: solid 1px darkgrey;
+   padding: 10px;
+   margin-bottom: 20px;
+}
+
+#generation_items button:not(:last-child) {
+   margin-right: 10px;
+}
+
+@media (max-width: 768px) {
+
+   #generation_items button {
+      display: block;
+      margin-bottom: 15px;
+      margin-left: 0px;
+   }
+
+   #generation_items button:last-child {
+      margin-bottom: 0;
+      /* Remove margin from the last button */
+   }
+}
+
+#action_buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#top_buttons {
+    display: flex;
+}
+
+@media (max-width: 768px) {
+
+   /* Adjust 768px based on when you want the mobile styling to kick in */
+   #action_buttons button {
+      display: block;
+      /* Stack buttons vertically */
+      margin-bottom: 25px;
+      /* Add margin to the bottom of each button */
+   }
+
+   #top_buttons {
+    display: block;
+}
+
+   #action_buttons button:last-child {
+      margin-bottom: 0;
+      /* Remove margin from the last button */
+   }
+}
+
+#bottom_spacer {
+   margin-bottom: 150px !important;
+}
+
+#main_area {
+   display: flex;
+   flex-direction: column;
+   min-height: 100vh;
+}
+
+/* Main container with flexbox */
+.main-container {
+   flex: 1;
+   display: flex;
+}
+
+.columns_container {
+   display: flex;
+   justify-content: space-between;
+   gap: 50px;
+}
+
+.column {
+   box-sizing: border-box;
+   width: 50%;
+}
+
+@media (max-width: 768px) {
+   .columns_container {
+      flex-direction: column;
+   }
+
+   .column {
+      width: 100%;
+   }
+}
+
+.index_footer {
+   color: darkgrey !important;
+   margin-top: 50px;
+   margin-bottom: 100px;
+   font-size: 0.75em;
+   text-align: center;
+}
+
+.cookie-toast {
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   background-color: lightblue;
+   /* Dark background with some transparency */
+   color: black;
+   padding: 10px;
+   text-align: center;
+   display: none;
+   /* Hidden by default */
+   z-index: 1000;
+   /* To ensure it's above other content */
+   font-size: 0.90em;
+   opacity: 0.9;
+}
+
+.cookie-toast a {
+   color: rgb(255, 64, 129);
+}
+
+.cookie-toast p {
+   display: inline;
+   /* So the button can be on the same line */
+   margin-right: 10px;
+}
+
+.cookie-toast button {
+   background-color: rgb(255, 64, 129);
+   color: white;
+   border: none;
+   border-radius: 5px;
+   margin: 10px;
+   padding: 10px 15px;
+   cursor: pointer;
+}
+
+.cookie-toast button:hover {
+   background-color: rgb(255, 65, 129);
+   opacity: 0.8;
+}
+
+#promocall
+{
+margin:0;
+font-size:2em;
+color:black !important;
+background-color: lightgreen;
+padding:20px;
+}
+
+#promocall2
+{
+margin:0;
+font-size:2em;
+color:black !important;
+background-color: lightblue;
+padding:20px;
+}
+
+
+#promocall a
+{
+color:black !important;
+}
+
+#promocall2 a
+{
+color:black !important;
+}
+
+#specials
+{
+margin-top:30px;
+margin-bottom:0;
+font-size:2em;
+color:yellow !important;
+background-color: darkblue;
+padding:20px;
+}
+
+#specials a
+{
+color:yellow !important;
+}
+
+#card-element
+{border: solid black 1px;
+padding: 10px;
+margin-top: 20px;
+margin-bottom: 50px !important;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+max-width: 500px;
+}
+
+#emailConfirmedModal .modal-content {
+    padding: 40px;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 40px;
+}
+
+#emailConfirmedModal
+{background-color: lightblue;}
+
+#emailConfirmedModal .modal-footer
+{background-color: lightblue;}
+
+#emailConfirmedModal h4
+{font-size:1.25em;}
+
+.btn
+{overflow:hidden;}
+
+#chorus_intro
+{font-size:0.8em;}
+
+.google-btn {
+  width: 184px;
+  height: 42px;
+  background-color: #4285f4;
+  border-radius: 2px;
+  box-shadow: 0 3px 4px 0 rgba(0,0,0,.25);
+  cursor: pointer;
+  text-decoration: none;
+    display: flex;
+  align-items: center; /* Align items vertically in the center */
+  justify-content: start; /* Align items to start horizontally */
+}
+
+.google-icon-wrapper {
+  width: 40px;
+  height: 42px;
+  border-radius: 2px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.google-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.btn-text {
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 10px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 100%; /* Make the text container take the full height of the button */
+}
+
+.google-btn:hover {
+  box-shadow: 0 0 6px #4285f4;
+}
+
+.google-btn:focus {
+  outline: none;
+}

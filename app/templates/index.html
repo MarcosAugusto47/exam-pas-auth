@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div id ="top_area">
+<img src="{{ url_for('static', filename='images/PAS.png') }}" alt="App Logo" class="app_logo">
+</div>
+
+<div id="main_area">
+
+<div class="main-container">
+
+    <div class="columns_container">
+
+<div class="column">
+
+        <h1 id="home_title">PAS Vision</h1>
+
+        <div class="introduction">
+            <h4>O PAS Vision é uma ferramenta que utiliza o poder do XGBoost, um avançado modelo de aprendizado de máquina, para prever a probabilidade de aprovação no Programa de Avaliação Seriada (PAS), para ingresso na Universidade de Brasília, dado o conjunto de dados das notas nas três etapas do vestibular, se é elegível a alguma cota (ação afirmativa) e a escolha do curso desejado.</h4>
+
+            <br><br>
+            <a class="mdl-button--large" href="/signup">PARECE LEGAL, VAMOS TENTAR!!</a>
+            <br><br><br><br>
+
+            <H4>
+                ✅ Probabilidade de aprovação.<br>
+                ✅ Estatísticas de desempenho dos candidatos aprovados.<br>
+                ✅ Explore cenários.<br>
+                <br>
+                Ao inserir seus dados, além de obter a estimativa da probabilidade de aprovação, você também terá acesso a estatísticas de desempenho dos candidatos aprovados que não se enquadram na categoria de cotistas para o curso escolhido. Essas informações proporcionam uma visão detalhada do histórico de sucesso de estudantes, fornecendo uma compreensão mais completa do cenário competitivo do curso.
+
+            </H4>
+            <!--
+            <div id="testimonials">
+            <H4>
+                🧔 I love it, it does exactly what it says on the tin.<br>  <b>Fred, London - UK</b>
+            </H4>
+             <H4>
+                 👩‍ It's so easy to use and the results are amazing. I've been using it for a few weeks. <br> <b>Elise, NYC - USA</b>
+            </H4>
+           </div>
+           -->
+            </div>
+
+</div>
+
+    <!-- Second column -->
+  <div class="column">
+
+    <h4 id="any_type">Experimente agora!</h4>
+
+      <p>More info about the app...</p>
+
+        <div id="inviteloginsignup">
+        <p class="home-cta">Please <a href="/login">login</a> or <a href="/signup">signup</a> to access the app.</p>
+        </div>
+
+
+      <div id="FAQ">
+        <h4>FAQ</h4>
+
+        <h6>Qual é o melhor jeito de usar a ferramenta?</h6>
+        <p>É recomendado que o usuários explore cenários diversos e simule diferentes combinações de dados para obter as possibilidades de aprovação.</p>
+        <h6>Como os dados foram obtidos?</h6>
+        <p>Os dados estão originalmente presentes em https://www.cebraspe.org.br/pas/subprogramas.</p>
+        <h6>Posso usar gratuitamente?</h6>
+        <p>Você irá poder usar a ferramenta 100% grátis até 50 vezes.</p>
+
+        </div>
+
+    </div>
+        </div>
+
+</div>
+
+
+<div class="index_footer">
+    <span>© 2024 Your Company|</span> <a href="https://yourcompany.com/privacy-policy/">Privacy Policy</a> | <a href="https://yourcompany.com/terms-of-service/">Terms of Service</a> | <a href="https://www.yourcompany.com/blog">Blog</a>
+</div>
+
+</div>
+
+<script src="{{ url_for('static', filename='index.obs.js') }}"></script>
+
+        <div class="button-container">
+  <a href="/login" class="home-login-button btn waves-effect waves-light blue">Login</a>
+  <a href="/signup" class="home-signup-button btn waves-effect waves-light blue">Signup</a>
+</div>
+
+<div id="cookie-toast" class="cookie-toast">
+    <p>We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies. <a href="https://yourcompany.com/privacy-policy/"> Learn more</a></p>
+    <button onclick="closeToast()">Got it!</button>
+</div>
+
+{% endblock %}
+

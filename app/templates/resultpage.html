@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PAS Vision</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+  <style>
+    body {
+      min-height: 100vh;
+      margin: 0;
+      font-family: 'Roboto', Arial, sans-serif;
+      font-size: 16px;
+      color: #333;
+      background: url("/uploads/media/default/0001/01/b5edc1bad4dc8c20291c8394527cb2c5b43ee13c.jpeg") no-repeat center;
+      background-size: cover;
+    }
+
+    .main-block {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: auto;
+      padding: 25px;
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .left-part {
+      text-align: center;
+      padding: 25px;
+    }
+
+    .fa-graduation-cap {
+      font-size: 72px;
+      color: #26a9e0;
+    }
+
+    h1, h2, h3 {
+      text-transform: uppercase;
+      font-weight: 400;
+      color: #333;
+    }
+
+    p {
+      color: #555;
+      margin-bottom: 20px;
+    }
+
+    .btn-group {
+      margin-top: 10px; /* Reduce top margin to create space */
+    }
+
+    .btn-item {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      border-radius: 5px;
+      border: none;
+      background: #26a9e0;
+      text-decoration: none;
+      font-size: 15px;
+      font-weight: 400;
+      color: #fff;
+      transition: background 0.3s ease;
+    }
+
+    .btn-item:hover {
+      background: #85d6de;
+    }
+
+    form {
+      background: rgba(255, 255, 255, 0.9);
+      overflow-y: auto;
+      padding: 25px;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .title {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .info {
+      display: flex;
+      flex-direction: column;
+    }
+
+    input, select {
+      padding: 10px;
+      margin-bottom: 20px;
+      background: #f5f5f5;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      color: #333;
+    }
+
+    input::placeholder {
+      color: #aaa;
+    }
+
+    .checkbox input {
+      margin: 0 10px 0 0;
+      vertical-align: middle;
+    }
+
+    .checkbox a {
+      color: #26a9e0;
+    }
+
+    .checkbox a:hover {
+      color: #85d6de;
+    }
+
+    .btn-item, button {
+      padding: 15px;
+      margin-top: 20px;
+      border-radius: 5px;
+      border: none;
+      background: #26a9e0;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 600;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    .btn-item {
+      display: inline-block;
+      margin: 20px 5px 0;
+    }
+
+    button {
+      width: 100%;
+    }
+
+    button:hover, .btn-item:hover {
+      background: #85d6de;
+    }
+
+    @media (min-width: 568px) {
+      html, body {
+        height: 100%;
+      }
+      .main-block {
+        flex-direction: row;
+        height: calc(100% - 50px);
+      }
+      .left-part, form {
+        flex: 1;
+        height: auto;
+      }
+    }
+
+    /* Updated styles for the table */
+    table {
+      border-collapse: collapse;
+      width: 80%;
+      margin: 20px auto; /* Center the table horizontally */
+    }
+
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <div class="main-block">
+    <div class="left-part">
+      <i class="fas fa-graduation-cap"></i>
+      <h1>PAS Vision</h1>
+      <p>Sua probabilidade de aprovação é de {{ data.get('approval_prediction') }}%</p>
+
+      <div style="margin-bottom: 100px;"></div> <!-- Adjust margin as needed -->
+
+      <div class="btn-group">
+
+        <h2>Score Summary for {{course}} - Aprovados Não Cotistas</h2>
+        <h3>SUBPROGRAMA 2020 (TRIÊNIO 2020/2022)</h3>
+        <table id="scoreTable">
+          <tr>
+            <th>Avaliação</th>
+            <th>Mínimo</th>
+            <th>Máximo</th>
+            <th>Mediana</th>
+            <th>Média</th>
+          </tr>
+          {% for key, values in course_stats.items() %}
+          <tr>
+            <td>{{ key }}</td>
+            <td>{{ values['min'] }}</td>
+            <td>{{ values['max'] }}</td>
+            <td>{{ values['median'] }}</td>
+            <td>{{ values['mean'] }}</td>
+          </tr>
+          {% endfor %}
+        </table>
+
+        <a class="btn-item" href="/confirmation">Preencher novamente</a>
+
+      </div>
+    </div>
+  </div>
+</body>
+</html>

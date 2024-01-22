@@ -1,0 +1,3918 @@
+{
+  "AGRONOMIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 3.6,
+      "mean": 3.5
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 55.3,
+      "median": 22.7,
+      "mean": 23.2
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -4.4,
+      "max": 7.0,
+      "median": 3.9,
+      "mean": 3.4
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": -2.6,
+      "max": 43.0,
+      "median": 23.2,
+      "mean": 23.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 6.4,
+      "median": 2.6,
+      "mean": 2.5
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 2.1,
+      "max": 36.6,
+      "median": 16.8,
+      "mean": 17.9
+    },
+    "argumento_final": {
+      "min": -90.1,
+      "max": 49.7,
+      "median": -37.0,
+      "mean": -23.4
+    }
+  },
+  "ARQUITETURA E URBANISMO (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 6.3,
+      "mean": 5.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 57.1,
+      "median": 37.1,
+      "mean": 36.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 8.6,
+      "median": 6.6,
+      "mean": 5.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 22.9,
+      "max": 67.4,
+      "median": 33.9,
+      "mean": 37.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 7.8,
+      "median": 4.3,
+      "mean": 4.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 18.2,
+      "max": 55.3,
+      "median": 34.4,
+      "mean": 35.4
+    },
+    "argumento_final": {
+      "min": -1.3,
+      "max": 137.1,
+      "median": 51.9,
+      "mean": 47.1
+    }
+  },
+  "ARQUIVOLOGIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 6.3,
+      "median": 3.6,
+      "mean": 3.2
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 22.5,
+      "median": 15.6,
+      "mean": 13.8
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -2.3,
+      "max": 7.0,
+      "median": 3.1,
+      "mean": 2.8
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 9.4,
+      "max": 29.7,
+      "median": 20.5,
+      "mean": 20.6
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 4.3,
+      "median": 2.1,
+      "mean": 2.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 9.5,
+      "max": 30.7,
+      "median": 19.0,
+      "mean": 19.1
+    },
+    "argumento_final": {
+      "min": -70.2,
+      "max": -5.3,
+      "median": -28.4,
+      "mean": -33.0
+    }
+  },
+  "ARTES C\u00caNICAS - INTERPRETA\u00c7\u00c3O TEATRAL (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 3.6,
+      "max": 6.3,
+      "median": 5.0,
+      "mean": 5.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 22.2,
+      "max": 26.4,
+      "median": 24.3,
+      "mean": 24.3
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 3.9,
+      "median": 3.9,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 14.1,
+      "max": 25.0,
+      "median": 19.5,
+      "mean": 19.5
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 3.5,
+      "max": 4.3,
+      "median": 3.9,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 16.5,
+      "max": 33.3,
+      "median": 24.9,
+      "mean": 24.9
+    },
+    "argumento_final": {
+      "min": -31.9,
+      "max": 22.8,
+      "median": -4.5,
+      "mean": -4.5
+    }
+  },
+  "ARTES VISUAIS (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 6.3,
+      "median": 4.1,
+      "mean": 3.5
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 16.8,
+      "max": 33.6,
+      "median": 22.1,
+      "mean": 23.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 7.0,
+      "median": 4.3,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 12.2,
+      "max": 32.5,
+      "median": 26.9,
+      "mean": 25.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 6.4,
+      "median": 3.2,
+      "mean": 3.5
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 6.4,
+      "max": 31.2,
+      "median": 23.6,
+      "mean": 21.2
+    },
+    "argumento_final": {
+      "min": -68.8,
+      "max": 10.9,
+      "median": -5.0,
+      "mean": -13.3
+    }
+  },
+  "ARTES VISUAIS (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 7.2,
+      "median": 1.8,
+      "mean": 2.7
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 46.0,
+      "median": 22.8,
+      "mean": 22.9
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 7.8,
+      "median": 4.3,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 25.5,
+      "max": 47.7,
+      "median": 29.8,
+      "mean": 33.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 2.8,
+      "max": 36.9,
+      "median": 23.2,
+      "mean": 21.5
+    },
+    "argumento_final": {
+      "min": -64.2,
+      "max": 70.1,
+      "median": 1.7,
+      "mean": 2.3
+    }
+  },
+  "BIBLIOTECONOMIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 4.1,
+      "mean": 3.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 42.0,
+      "median": 16.1,
+      "mean": 17.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 7.0,
+      "median": 5.5,
+      "mean": 4.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 6.8,
+      "max": 46.1,
+      "median": 19.1,
+      "mean": 23.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 5.7,
+      "median": 3.9,
+      "mean": 3.7
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 1.4,
+      "max": 42.3,
+      "median": 18.6,
+      "mean": 20.2
+    },
+    "argumento_final": {
+      "min": -80.9,
+      "max": 60.6,
+      "median": -22.2,
+      "mean": -19.4
+    }
+  },
+  "BIOTECNOLOGIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 6.3,
+      "mean": 5.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 56.5,
+      "median": 43.5,
+      "mean": 40.6
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 6.6
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 27.4,
+      "max": 63.3,
+      "median": 44.3,
+      "mean": 44.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 6.4,
+      "median": 4.3,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 28.6,
+      "max": 64.8,
+      "median": 37.1,
+      "mean": 40.0
+    },
+    "argumento_final": {
+      "min": 33.2,
+      "max": 154.2,
+      "median": 55.2,
+      "mean": 69.7
+    }
+  },
+  "CAMPUS UNB CEIL\u00c2NDIA (FCE) ENFERMAGEM (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.9,
+      "max": 8.1,
+      "median": 4.5,
+      "mean": 4.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 20.1,
+      "max": 40.8,
+      "median": 32.7,
+      "mean": 32.2
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.8,
+      "max": 8.6,
+      "median": 4.7,
+      "mean": 4.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 25.0,
+      "max": 46.1,
+      "median": 34.2,
+      "mean": 34.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 7.8,
+      "median": 2.8,
+      "mean": 3.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 19.9,
+      "max": 46.8,
+      "median": 30.7,
+      "mean": 31.6
+    },
+    "argumento_final": {
+      "min": 8.8,
+      "max": 71.3,
+      "median": 26.4,
+      "mean": 29.9
+    }
+  },
+  "CAMPUS UNB PLANALTINA (FUP) \u2013 DIURNO CI\u00caNCIAS NATURAIS (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 3.6,
+      "max": 3.6,
+      "median": 3.6,
+      "mean": 3.6
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 6.9,
+      "max": 6.9,
+      "median": 6.9,
+      "mean": 6.9
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 8.6,
+      "max": 8.6,
+      "median": 8.6,
+      "mean": 8.6
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 6.8,
+      "max": 6.8,
+      "median": 6.8,
+      "mean": 6.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 0.2,
+      "median": 0.2,
+      "mean": 0.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 0.7,
+      "max": 0.7,
+      "median": 0.7,
+      "mean": 0.7
+    },
+    "argumento_final": {
+      "min": -85.5,
+      "max": -85.5,
+      "median": -85.5,
+      "mean": -85.5
+    }
+  },
+  "CAMPUS UNB PLANALTINA (FUP) \u2013 NOTURNO CI\u00caNCIAS NATURAIS (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 6.3,
+      "median": 3.8,
+      "mean": 2.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 28.8,
+      "median": 6.5,
+      "mean": 9.8
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.8,
+      "max": 8.6,
+      "median": 3.9,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 4.2,
+      "max": 27.9,
+      "median": 15.1,
+      "mean": 16.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 3.5,
+      "median": 1.8,
+      "mean": 1.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 8.5,
+      "max": 22.7,
+      "median": 12.4,
+      "mean": 13.9
+    },
+    "argumento_final": {
+      "min": -76.9,
+      "max": -20.5,
+      "median": -57.3,
+      "mean": -50.9
+    }
+  },
+  "CI\u00caNCIA DA COMPUTA\u00c7\u00c3O (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 6.3,
+      "max": 9.0,
+      "median": 7.2,
+      "mean": 7.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 41.7,
+      "max": 76.0,
+      "median": 55.1,
+      "mean": 55.8
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 7.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 37.6,
+      "max": 76.5,
+      "median": 55.1,
+      "mean": 55.7
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.8,
+      "max": 7.8,
+      "median": 6.0,
+      "mean": 6.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 34.5,
+      "max": 67.6,
+      "median": 45.5,
+      "mean": 47.9
+    },
+    "argumento_final": {
+      "min": 78.7,
+      "max": 192.2,
+      "median": 102.1,
+      "mean": 111.1
+    }
+  },
+  "CI\u00caNCIA POL\u00cdTICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 5.4,
+      "mean": 5.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 52.6,
+      "median": 37.2,
+      "mean": 36.4
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.3
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 21.6,
+      "max": 58.6,
+      "median": 34.4,
+      "mean": 36.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 7.8,
+      "median": 3.5,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 18.2,
+      "max": 52.5,
+      "median": 28.8,
+      "mean": 30.8
+    },
+    "argumento_final": {
+      "min": -7.4,
+      "max": 128.5,
+      "median": 22.8,
+      "mean": 34.1
+    }
+  },
+  "CI\u00caNCIAS AMBIENTAIS (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 2.1,
+      "max": 6.3,
+      "median": 4.2,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 15.9,
+      "max": 51.7,
+      "median": 24.3,
+      "mean": 28.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 8.6,
+      "median": 4.7,
+      "mean": 4.7
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 16.1,
+      "max": 53.0,
+      "median": 24.7,
+      "mean": 30.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 5.0,
+      "median": 3.5,
+      "mean": 3.1
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 5.9,
+      "max": 53.9,
+      "median": 13.8,
+      "mean": 20.0
+    },
+    "argumento_final": {
+      "min": -63.6,
+      "max": 118.3,
+      "median": -32.1,
+      "mean": -5.3
+    }
+  },
+  "CI\u00caNCIAS BIOL\u00d3GICAS (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.9,
+      "max": 7.2,
+      "median": 4.5,
+      "mean": 4.6
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 28.8,
+      "max": 65.8,
+      "median": 39.6,
+      "mean": 41.3
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 6.0
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 28.9,
+      "max": 66.9,
+      "median": 39.6,
+      "mean": 42.7
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 7.1,
+      "median": 5.0,
+      "mean": 4.6
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 26.9,
+      "max": 54.1,
+      "median": 36.6,
+      "mean": 39.2
+    },
+    "argumento_final": {
+      "min": 30.7,
+      "max": 143.7,
+      "median": 61.4,
+      "mean": 66.4
+    }
+  },
+  "CI\u00caNCIAS CONT\u00c1BEIS (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 3.6,
+      "mean": 3.5
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 49.0,
+      "median": 25.8,
+      "mean": 24.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -2.9,
+      "max": 8.6,
+      "median": 3.9,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 1.6,
+      "max": 41.4,
+      "median": 24.7,
+      "mean": 23.9
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 7.8,
+      "median": 2.8,
+      "mean": 3.1
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 0.5,
+      "max": 41.8,
+      "median": 21.7,
+      "mean": 20.2
+    },
+    "argumento_final": {
+      "min": -89.3,
+      "max": 64.4,
+      "median": -10.0,
+      "mean": -16.9
+    }
+  },
+  "CI\u00caNCIAS ECON\u00d4MICAS (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 2.7,
+      "max": 9.9,
+      "median": 6.3,
+      "mean": 6.5
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 33.3,
+      "max": 73.9,
+      "median": 46.6,
+      "mean": 48.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 8.6,
+      "median": 6.6,
+      "mean": 6.3
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 34.4,
+      "max": 75.0,
+      "median": 51.9,
+      "mean": 51.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 6.4,
+      "median": 3.9,
+      "mean": 4.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 32.6,
+      "max": 66.9,
+      "median": 42.8,
+      "mean": 44.1
+    },
+    "argumento_final": {
+      "min": 56.5,
+      "max": 175.1,
+      "median": 81.1,
+      "mean": 91.4
+    }
+  },
+  "CI\u00caNCIAS SOCIAIS \u2013 ANTROPOLOGIA / SOCIOLOGIA (BACHARELADO/LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 5.4,
+      "mean": 5.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 65.2,
+      "median": 30.9,
+      "mean": 32.4
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -2.3,
+      "max": 8.6,
+      "median": 4.7,
+      "mean": 4.6
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 8.3,
+      "max": 48.4,
+      "median": 30.7,
+      "mean": 29.9
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 7.8,
+      "median": 3.5,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 10.2,
+      "max": 45.1,
+      "median": 28.1,
+      "mean": 26.3
+    },
+    "argumento_final": {
+      "min": -57.7,
+      "max": 94.5,
+      "median": 15.8,
+      "mean": 12.2
+    }
+  },
+  "COMPUTA\u00c7\u00c3O (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 4.5,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 52.0,
+      "median": 25.8,
+      "mean": 25.9
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -3.9,
+      "max": 7.8,
+      "median": 4.7,
+      "mean": 3.7
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 3.1,
+      "max": 38.1,
+      "median": 25.1,
+      "mean": 24.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 6.4,
+      "median": 2.8,
+      "mean": 3.1
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 2.8,
+      "max": 38.3,
+      "median": 21.7,
+      "mean": 19.1
+    },
+    "argumento_final": {
+      "min": -89.0,
+      "max": 34.2,
+      "median": -14.5,
+      "mean": -18.4
+    }
+  },
+  "COMUNICA\u00c7\u00c3O ORGANIZACIONAL (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 5.4,
+      "median": 3.6,
+      "mean": 3.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 16.8,
+      "max": 39.9,
+      "median": 31.4,
+      "mean": 30.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -3.1,
+      "max": 7.0,
+      "median": 5.5,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 15.1,
+      "max": 37.2,
+      "median": 28.5,
+      "mean": 27.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 4.3,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 14.9,
+      "max": 43.5,
+      "median": 26.2,
+      "mean": 26.1
+    },
+    "argumento_final": {
+      "min": -17.5,
+      "max": 62.3,
+      "median": 9.4,
+      "mean": 9.7
+    }
+  },
+  "COMUNICA\u00c7\u00c3O SOCIAL - PUBLICIDADE E PROPAGANDA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 3.6,
+      "max": 8.1,
+      "median": 5.9,
+      "mean": 6.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 32.1,
+      "max": 58.0,
+      "median": 42.6,
+      "mean": 43.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 6.6
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 33.6,
+      "max": 61.4,
+      "median": 44.2,
+      "mean": 44.5
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 5.7,
+      "median": 4.3,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 38.8,
+      "max": 53.4,
+      "median": 42.8,
+      "mean": 44.5
+    },
+    "argumento_final": {
+      "min": 64.7,
+      "max": 129.7,
+      "median": 76.5,
+      "mean": 82.3
+    }
+  },
+  "COMUNICA\u00c7\u00c3O SOCIAL \u2013 AUDIOVISUAL (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.3,
+      "max": 9.9,
+      "median": 6.3,
+      "mean": 5.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 25.5,
+      "max": 51.4,
+      "median": 42.6,
+      "mean": 40.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 6.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 27.4,
+      "max": 64.0,
+      "median": 35.7,
+      "mean": 40.0
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 3.1,
+      "max": 6.4,
+      "median": 5.0,
+      "mean": 4.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 29.1,
+      "max": 46.8,
+      "median": 34.5,
+      "mean": 35.8
+    },
+    "argumento_final": {
+      "min": 33.5,
+      "max": 116.2,
+      "median": 47.0,
+      "mean": 55.6
+    }
+  },
+  "DESIGN \u2013 PROGRAMA\u00c7\u00c3O VISUAL/PROJETO DO PRODUTO (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 4.5,
+      "max": 8.1,
+      "median": 6.5,
+      "mean": 6.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 30.3,
+      "max": 50.2,
+      "median": 39.8,
+      "mean": 39.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 7.0,
+      "median": 6.2,
+      "mean": 6.0
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 40.2,
+      "max": 55.5,
+      "median": 50.8,
+      "mean": 48.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 4.3,
+      "max": 7.8,
+      "median": 6.4,
+      "mean": 5.8
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 34.0,
+      "max": 49.9,
+      "median": 42.5,
+      "mean": 42.7
+    },
+    "argumento_final": {
+      "min": 66.6,
+      "max": 98.3,
+      "median": 75.7,
+      "mean": 80.0
+    }
+  },
+  "DIREITO (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 1.8,
+      "max": 9.9,
+      "median": 6.3,
+      "mean": 6.5
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 18.6,
+      "max": 69.1,
+      "median": 47.2,
+      "mean": 47.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.1,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 6.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 29.9,
+      "max": 73.4,
+      "median": 53.6,
+      "mean": 53.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 7.8,
+      "median": 5.0,
+      "mean": 4.7
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 26.9,
+      "max": 67.6,
+      "median": 45.6,
+      "mean": 46.1
+    },
+    "argumento_final": {
+      "min": 53.3,
+      "max": 181.8,
+      "median": 97.8,
+      "mean": 97.3
+    }
+  },
+  "DIURNO ADMINISTRA\u00c7\u00c3O (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.9,
+      "max": 9.0,
+      "median": 5.4,
+      "mean": 5.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 24.6,
+      "max": 51.7,
+      "median": 37.1,
+      "mean": 38.1
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 8.6,
+      "median": 6.2,
+      "mean": 5.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 26.1,
+      "max": 64.0,
+      "median": 34.7,
+      "mean": 36.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 3.5
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 22.2,
+      "max": 48.9,
+      "median": 30.7,
+      "mean": 31.8
+    },
+    "argumento_final": {
+      "min": 9.7,
+      "max": 120.3,
+      "median": 33.2,
+      "mean": 37.5
+    }
+  },
+  "EDUCA\u00c7\u00c3O F\u00cdSICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 1.8,
+      "max": 9.9,
+      "median": 5.0,
+      "mean": 5.2
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 9.6,
+      "max": 48.1,
+      "median": 29.9,
+      "mean": 30.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 7.8,
+      "median": 4.7,
+      "mean": 4.6
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 25.0,
+      "max": 42.5,
+      "median": 30.9,
+      "mean": 32.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 6.4,
+      "median": 4.6,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 18.4,
+      "max": 36.2,
+      "median": 23.6,
+      "mean": 25.3
+    },
+    "argumento_final": {
+      "min": -8.9,
+      "max": 45.1,
+      "median": 7.0,
+      "mean": 11.7
+    }
+  },
+  "EDUCA\u00c7\u00c3O F\u00cdSICA (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 4.1,
+      "mean": 3.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 36.3,
+      "median": 24.6,
+      "mean": 23.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 7.0,
+      "median": 4.7,
+      "mean": 4.5
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 10.9,
+      "max": 40.9,
+      "median": 19.9,
+      "mean": 21.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 5.0,
+      "median": 2.1,
+      "mean": 2.6
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 10.2,
+      "max": 37.3,
+      "median": 17.4,
+      "mean": 19.5
+    },
+    "argumento_final": {
+      "min": -45.4,
+      "max": 46.7,
+      "median": -23.0,
+      "mean": -17.5
+    }
+  },
+  "ENFERMAGEM (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.9,
+      "max": 8.1,
+      "median": 5.9,
+      "mean": 5.7
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 23.7,
+      "max": 47.5,
+      "median": 40.2,
+      "mean": 37.9
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 7.8,
+      "median": 5.9,
+      "mean": 5.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 27.3,
+      "max": 55.7,
+      "median": 39.8,
+      "mean": 38.9
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 4.3,
+      "mean": 4.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 26.7,
+      "max": 48.4,
+      "median": 36.3,
+      "mean": 35.9
+    },
+    "argumento_final": {
+      "min": 23.5,
+      "max": 104.4,
+      "median": 55.5,
+      "mean": 52.2
+    }
+  },
+  "ENGENHARIA AMBIENTAL (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 4.1,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 61.3,
+      "median": 28.5,
+      "mean": 28.1
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.0,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 15.4,
+      "max": 51.5,
+      "median": 29.6,
+      "mean": 30.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 7.8,
+      "median": 2.8,
+      "mean": 3.4
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 10.2,
+      "max": 47.3,
+      "median": 22.3,
+      "mean": 24.9
+    },
+    "argumento_final": {
+      "min": -57.7,
+      "max": 94.2,
+      "median": 0.7,
+      "mean": 7.0
+    }
+  },
+  "ENGENHARIA CIVIL (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.0,
+      "median": 6.3,
+      "mean": 5.5
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 60.1,
+      "median": 39.8,
+      "mean": 38.4
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 8.6,
+      "median": 5.2,
+      "mean": 5.3
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 26.0,
+      "max": 74.2,
+      "median": 36.8,
+      "mean": 41.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 7.8,
+      "median": 3.5,
+      "mean": 3.7
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 17.0,
+      "max": 62.2,
+      "median": 29.4,
+      "mean": 33.7
+    },
+    "argumento_final": {
+      "min": 4.7,
+      "max": 155.6,
+      "median": 22.1,
+      "mean": 48.1
+    }
+  },
+  "ENGENHARIA DE COMPUTA\u00c7\u00c3O (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 1.8,
+      "max": 9.9,
+      "median": 6.8,
+      "mean": 6.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 36.0,
+      "max": 71.5,
+      "median": 52.1,
+      "mean": 53.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 8.6,
+      "median": 6.6,
+      "mean": 6.3
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 47.4,
+      "max": 68.7,
+      "median": 59.4,
+      "mean": 58.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 7.1,
+      "median": 5.0,
+      "mean": 4.5
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 45.1,
+      "max": 64.5,
+      "median": 52.7,
+      "mean": 52.8
+    },
+    "argumento_final": {
+      "min": 93.1,
+      "max": 163.2,
+      "median": 122.2,
+      "mean": 123.6
+    }
+  },
+  "ENGENHARIA DE PRODU\u00c7\u00c3O (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.0,
+      "median": 5.1,
+      "mean": 5.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 64.0,
+      "median": 43.4,
+      "mean": 39.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -2.3,
+      "max": 8.6,
+      "median": 6.2,
+      "mean": 5.7
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 17.8,
+      "max": 64.8,
+      "median": 43.1,
+      "mean": 41.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 7.8,
+      "median": 5.0,
+      "mean": 4.5
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 8.0,
+      "max": 52.9,
+      "median": 36.2,
+      "mean": 34.4
+    },
+    "argumento_final": {
+      "min": -55.2,
+      "max": 131.0,
+      "median": 52.5,
+      "mean": 50.5
+    }
+  },
+  "ENGENHARIA DE REDES DE COMUNICA\u00c7\u00c3O (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.9,
+      "max": 8.1,
+      "median": 4.5,
+      "mean": 4.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 13.2,
+      "max": 45.6,
+      "median": 31.5,
+      "mean": 29.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 7.0,
+      "median": 3.9,
+      "mean": 4.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 16.9,
+      "max": 45.4,
+      "median": 27.6,
+      "mean": 29.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 5.0,
+      "median": 2.8,
+      "mean": 2.7
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 8.0,
+      "max": 44.2,
+      "median": 21.7,
+      "mean": 22.0
+    },
+    "argumento_final": {
+      "min": -63.4,
+      "max": 71.8,
+      "median": 8.9,
+      "mean": -2.9
+    }
+  },
+  "ENGENHARIA EL\u00c9TRICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 5.1,
+      "mean": 4.5
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 59.8,
+      "median": 39.2,
+      "mean": 37.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -2.3,
+      "max": 8.6,
+      "median": 5.1,
+      "mean": 4.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 11.5,
+      "max": 78.1,
+      "median": 31.3,
+      "mean": 37.9
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 4.3,
+      "mean": 3.8
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 9.2,
+      "max": 71.4,
+      "median": 29.7,
+      "mean": 34.5
+    },
+    "argumento_final": {
+      "min": -61.1,
+      "max": 189.2,
+      "median": 23.2,
+      "mean": 44.2
+    }
+  },
+  "ENGENHARIA FLORESTAL (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 7.2,
+      "median": 4.5,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 42.3,
+      "median": 21.6,
+      "mean": 23.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 7.0,
+      "median": 4.3,
+      "mean": 4.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 9.4,
+      "max": 34.9,
+      "median": 28.1,
+      "mean": 25.5
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 5.0,
+      "median": 3.5,
+      "mean": 3.3
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 4.0,
+      "max": 34.0,
+      "median": 19.3,
+      "mean": 20.2
+    },
+    "argumento_final": {
+      "min": -71.1,
+      "max": 30.8,
+      "median": -5.0,
+      "mean": -12.1
+    }
+  },
+  "ENGENHARIA MECATR\u00d4NICA \u2013 CONTROLE E AUTOMA\u00c7\u00c3O (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 1.8,
+      "max": 8.1,
+      "median": 5.0,
+      "mean": 5.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 24.3,
+      "max": 67.0,
+      "median": 44.3,
+      "mean": 45.4
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 24.7,
+      "max": 78.1,
+      "median": 39.0,
+      "mean": 45.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.7,
+      "max": 7.8,
+      "median": 4.6,
+      "mean": 4.5
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 12.5,
+      "max": 68.5,
+      "median": 35.3,
+      "mean": 38.8
+    },
+    "argumento_final": {
+      "min": -3.8,
+      "max": 193.3,
+      "median": 41.1,
+      "mean": 68.7
+    }
+  },
+  "ENGENHARIA MEC\u00c2NICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.0,
+      "median": 4.1,
+      "mean": 3.7
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 61.6,
+      "median": 33.5,
+      "mean": 35.4
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.5,
+      "max": 7.8,
+      "median": 6.2,
+      "mean": 5.5
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 13.0,
+      "max": 64.4,
+      "median": 39.2,
+      "mean": 38.9
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 3.9,
+      "mean": 3.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 5.4,
+      "max": 50.3,
+      "median": 29.0,
+      "mean": 29.6
+    },
+    "argumento_final": {
+      "min": -63.3,
+      "max": 128.9,
+      "median": 18.6,
+      "mean": 34.0
+    }
+  },
+  "ENGENHARIA QU\u00cdMICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.9,
+      "max": 9.0,
+      "median": 5.4,
+      "mean": 5.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 9.6,
+      "max": 70.6,
+      "median": 35.3,
+      "mean": 38.1
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 8.6,
+      "median": 5.1,
+      "mean": 4.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 8.3,
+      "max": 71.1,
+      "median": 41.8,
+      "mean": 41.6
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 3.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 5.0,
+      "max": 65.5,
+      "median": 37.0,
+      "mean": 35.2
+    },
+    "argumento_final": {
+      "min": -73.7,
+      "max": 168.8,
+      "median": 50.7,
+      "mean": 49.9
+    }
+  },
+  "ENGENHARIAS \u2013 AEROESPACIAL / AUTOMOTIVA / ELETR\u00d4NICA / ENERGIA / SOFTWARE (BACHARELADOS)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 5.4,
+      "mean": 4.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 62.5,
+      "median": 33.6,
+      "mean": 34.9
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -2.3,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 11.5,
+      "max": 71.1,
+      "median": 33.3,
+      "mean": 36.0
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 7.8,
+      "median": 3.5,
+      "mean": 3.6
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 13.2,
+      "max": 68.1,
+      "median": 27.4,
+      "mean": 30.5
+    },
+    "argumento_final": {
+      "min": -24.6,
+      "max": 175.1,
+      "median": 16.6,
+      "mean": 31.1
+    }
+  },
+  "ESTAT\u00cdSTICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 1.8,
+      "max": 9.0,
+      "median": 6.3,
+      "mean": 6.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 9.0,
+      "max": 60.7,
+      "median": 38.1,
+      "mean": 37.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.8
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 18.0,
+      "max": 59.8,
+      "median": 44.5,
+      "mean": 42.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 7.1,
+      "median": 5.0,
+      "mean": 4.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 9.7,
+      "max": 50.3,
+      "median": 35.7,
+      "mean": 34.8
+    },
+    "argumento_final": {
+      "min": -61.2,
+      "max": 121.3,
+      "median": 58.4,
+      "mean": 51.9
+    }
+  },
+  "FARM\u00c1CIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 4.5,
+      "mean": 4.5
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 48.7,
+      "median": 28.2,
+      "mean": 28.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 10.4,
+      "max": 57.4,
+      "median": 30.2,
+      "mean": 31.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 3.3,
+      "mean": 3.3
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 10.6,
+      "max": 52.5,
+      "median": 24.6,
+      "mean": 27.2
+    },
+    "argumento_final": {
+      "min": -50.3,
+      "max": 114.6,
+      "median": 3.2,
+      "mean": 12.9
+    }
+  },
+  "FILOSOFIA (BACHARELADO/LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 4.5,
+      "mean": 4.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 43.8,
+      "median": 18.3,
+      "mean": 20.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 7.8,
+      "median": 5.5,
+      "mean": 5.0
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 7.3,
+      "max": 31.8,
+      "median": 21.9,
+      "mean": 21.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 6.4,
+      "median": 3.1,
+      "mean": 3.3
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 6.4,
+      "max": 34.3,
+      "median": 15.8,
+      "mean": 18.2
+    },
+    "argumento_final": {
+      "min": -69.9,
+      "max": 33.6,
+      "median": -23.8,
+      "mean": -25.1
+    }
+  },
+  "FILOSOFIA (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 3.6,
+      "median": 1.8,
+      "mean": 2.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 32.4,
+      "median": 21.6,
+      "mean": 19.2
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 6.2,
+      "median": 4.7,
+      "mean": 4.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 9.6,
+      "max": 31.5,
+      "median": 26.6,
+      "mean": 22.6
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 5.7,
+      "median": 2.8,
+      "mean": 2.8
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 13.0,
+      "max": 38.8,
+      "median": 22.7,
+      "mean": 23.3
+    },
+    "argumento_final": {
+      "min": -53.0,
+      "max": 37.5,
+      "median": -14.1,
+      "mean": -16.1
+    }
+  },
+  "FISIOTERAPIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 1.8,
+      "max": 9.0,
+      "median": 5.4,
+      "mean": 5.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 19.2,
+      "max": 55.0,
+      "median": 32.9,
+      "mean": 34.4
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -1.6,
+      "max": 8.6,
+      "median": 4.3,
+      "mean": 4.8
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 25.3,
+      "max": 59.5,
+      "median": 36.1,
+      "mean": 38.7
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 7.8,
+      "median": 3.5,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 16.3,
+      "max": 50.3,
+      "median": 32.3,
+      "mean": 32.3
+    },
+    "argumento_final": {
+      "min": 2.5,
+      "max": 121.1,
+      "median": 24.5,
+      "mean": 39.1
+    }
+  },
+  "FONOAUDIOLOGIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 6.3,
+      "median": 2.1,
+      "mean": 2.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 9.0,
+      "max": 31.5,
+      "median": 24.6,
+      "mean": 23.1
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 7.0,
+      "median": 3.9,
+      "mean": 3.7
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 13.0,
+      "max": 34.9,
+      "median": 22.5,
+      "mean": 22.7
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 5.0,
+      "median": 2.8,
+      "mean": 2.4
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 3.8,
+      "max": 24.8,
+      "median": 14.7,
+      "mean": 14.9
+    },
+    "argumento_final": {
+      "min": -58.1,
+      "max": 11.3,
+      "median": -34.2,
+      "mean": -31.2
+    }
+  },
+  "F\u00cdSICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 2.7,
+      "max": 9.9,
+      "median": 4.5,
+      "mean": 5.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 35.4,
+      "max": 62.8,
+      "median": 50.5,
+      "mean": 49.6
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 5.5,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 7.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 33.6,
+      "max": 64.0,
+      "median": 58.1,
+      "mean": 54.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 4.3,
+      "max": 7.1,
+      "median": 5.7,
+      "mean": 5.6
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 36.4,
+      "max": 55.1,
+      "median": 52.5,
+      "mean": 49.6
+    },
+    "argumento_final": {
+      "min": 91.7,
+      "max": 138.8,
+      "median": 113.7,
+      "mean": 111.2
+    }
+  },
+  "GEOF\u00cdSICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 3.2,
+      "mean": 4.2
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 29.1,
+      "median": 18.8,
+      "mean": 18.1
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 7.0,
+      "median": 3.9,
+      "mean": 4.4
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 12.5,
+      "max": 39.3,
+      "median": 26.3,
+      "mean": 25.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 5.7,
+      "median": 3.7,
+      "mean": 3.5
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 16.1,
+      "max": 30.3,
+      "median": 20.6,
+      "mean": 21.5
+    },
+    "argumento_final": {
+      "min": -48.2,
+      "max": 8.3,
+      "median": -6.5,
+      "mean": -14.7
+    }
+  },
+  "GEOGRAFIA (BACHARELADO/LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 6.3,
+      "median": 3.6,
+      "mean": 3.2
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 40.2,
+      "median": 32.7,
+      "mean": 29.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.1,
+      "max": 7.0,
+      "median": 5.5,
+      "mean": 5.4
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 26.8,
+      "max": 41.7,
+      "median": 30.2,
+      "mean": 32.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 5.0,
+      "median": 3.5,
+      "mean": 3.6
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 23.9,
+      "max": 36.9,
+      "median": 29.1,
+      "mean": 29.8
+    },
+    "argumento_final": {
+      "min": -3.9,
+      "max": 44.5,
+      "median": 25.1,
+      "mean": 22.9
+    }
+  },
+  "GEOLOGIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 4.5,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 51.1,
+      "median": 34.5,
+      "mean": 30.2
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.8,
+      "max": 7.8,
+      "median": 5.5,
+      "mean": 4.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 4.9,
+      "max": 48.9,
+      "median": 25.5,
+      "mean": 27.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 3.5
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 12.8,
+      "max": 36.6,
+      "median": 28.4,
+      "mean": 27.2
+    },
+    "argumento_final": {
+      "min": -68.7,
+      "max": 68.3,
+      "median": 15.9,
+      "mean": 7.2
+    }
+  },
+  "GEST\u00c3O DE AGRONEG\u00d3CIO (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 2.7,
+      "max": 6.3,
+      "median": 4.5,
+      "mean": 4.7
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 8.4,
+      "max": 34.5,
+      "median": 20.7,
+      "mean": 22.3
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.5,
+      "max": 5.5,
+      "median": 2.3,
+      "mean": 2.5
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 11.2,
+      "max": 37.0,
+      "median": 20.0,
+      "mean": 22.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.9,
+      "max": 3.5,
+      "median": 2.1,
+      "mean": 2.1
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 8.3,
+      "max": 26.0,
+      "median": 11.8,
+      "mean": 14.5
+    },
+    "argumento_final": {
+      "min": -61.0,
+      "max": 11.2,
+      "median": -46.6,
+      "mean": -33.8
+    }
+  },
+  "GEST\u00c3O DE POL\u00cdTICAS P\u00daBLICAS (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 2.1,
+      "max": 8.1,
+      "median": 3.6,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 16.5,
+      "max": 35.7,
+      "median": 29.4,
+      "mean": 28.4
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.0,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.6
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 14.6,
+      "max": 36.5,
+      "median": 23.4,
+      "mean": 25.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 6.4,
+      "median": 4.3,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 6.6,
+      "max": 39.5,
+      "median": 22.2,
+      "mean": 21.5
+    },
+    "argumento_final": {
+      "min": -51.5,
+      "max": 51.6,
+      "median": -8.6,
+      "mean": -6.2
+    }
+  },
+  "GEST\u00c3O DO AGRONEG\u00d3CIO (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.3,
+      "max": 0.3,
+      "median": 0.3,
+      "mean": 0.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 7.5,
+      "max": 7.5,
+      "median": 7.5,
+      "mean": 7.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.8,
+      "max": -0.8,
+      "median": -0.8,
+      "mean": -0.8
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 7.8,
+      "max": 7.8,
+      "median": 7.8,
+      "mean": 7.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.4,
+      "max": 2.4,
+      "median": 2.4,
+      "mean": 2.4
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 8.3,
+      "max": 8.3,
+      "median": 8.3,
+      "mean": 8.3
+    },
+    "argumento_final": {
+      "min": -78.1,
+      "max": -78.1,
+      "median": -78.1,
+      "mean": -78.1
+    }
+  },
+  "HIST\u00d3RIA (BACHARELADO/LICENCIATURA )": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 4.5,
+      "mean": 4.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 30.9,
+      "max": 52.6,
+      "median": 37.2,
+      "mean": 38.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 8.6,
+      "median": 6.2,
+      "mean": 5.6
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 27.3,
+      "max": 55.3,
+      "median": 38.7,
+      "mean": 40.0
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 7.1,
+      "median": 3.9,
+      "mean": 3.6
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 24.1,
+      "max": 51.8,
+      "median": 31.9,
+      "mean": 34.0
+    },
+    "argumento_final": {
+      "min": 14.0,
+      "max": 105.5,
+      "median": 36.2,
+      "mean": 46.9
+    }
+  },
+  "HIST\u00d3RIA (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 7.5,
+      "median": 3.6,
+      "mean": 3.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 39.9,
+      "median": 18.0,
+      "mean": 19.4
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -2.9,
+      "max": 7.8,
+      "median": 3.9,
+      "mean": 4.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 10.4,
+      "max": 33.8,
+      "median": 19.8,
+      "mean": 19.6
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 5.0,
+      "median": 3.5,
+      "mean": 3.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 4.5,
+      "max": 28.4,
+      "median": 11.6,
+      "mean": 13.7
+    },
+    "argumento_final": {
+      "min": -75.7,
+      "max": 20.2,
+      "median": -46.0,
+      "mean": -39.3
+    }
+  },
+  "JORNALISMO (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 2.7,
+      "max": 7.2,
+      "median": 5.0,
+      "mean": 5.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 37.5,
+      "max": 58.9,
+      "median": 46.3,
+      "mean": 47.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 8.6,
+      "median": 6.2,
+      "mean": 6.3
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 40.1,
+      "max": 54.5,
+      "median": 49.0,
+      "mean": 48.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 7.8,
+      "median": 5.7,
+      "mean": 5.1
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 39.5,
+      "max": 49.6,
+      "median": 41.9,
+      "mean": 43.0
+    },
+    "argumento_final": {
+      "min": 74.6,
+      "max": 117.2,
+      "median": 82.0,
+      "mean": 87.6
+    }
+  },
+  "LETRAS \u2013 PORTUGU\u00caS DO BRASIL COMO SEGUNDA L\u00cdNGUA (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 4.5,
+      "max": 8.1,
+      "median": 6.3,
+      "mean": 6.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 10.5,
+      "max": 35.4,
+      "median": 28.5,
+      "mean": 26.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 4.7,
+      "max": 8.6,
+      "median": 5.9,
+      "mean": 6.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 25.3,
+      "max": 35.7,
+      "median": 31.7,
+      "mean": 30.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 3.5,
+      "max": 6.4,
+      "median": 4.6,
+      "mean": 4.6
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 15.6,
+      "max": 33.8,
+      "median": 22.6,
+      "mean": 24.7
+    },
+    "argumento_final": {
+      "min": -10.9,
+      "max": 45.0,
+      "median": 2.1,
+      "mean": 8.7
+    }
+  },
+  "LETRAS \u2013 TRADU\u00c7\u00c3O ESPANHOL (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 3.6,
+      "max": 8.1,
+      "median": 4.5,
+      "mean": 5.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 15.3,
+      "max": 21.9,
+      "median": 17.1,
+      "mean": 18.1
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 5.5,
+      "median": 4.7,
+      "mean": 4.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 14.8,
+      "max": 25.3,
+      "median": 21.1,
+      "mean": 20.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.9,
+      "max": 3.5,
+      "median": 2.1,
+      "mean": 2.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 7.8,
+      "max": 16.3,
+      "median": 15.8,
+      "mean": 13.3
+    },
+    "argumento_final": {
+      "min": -59.6,
+      "max": -24.4,
+      "median": -33.8,
+      "mean": -39.3
+    }
+  },
+  "LETRAS \u2013 TRADU\u00c7\u00c3O \u2013 FRANC\u00caS (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 3.6,
+      "max": 8.1,
+      "median": 6.3,
+      "mean": 6.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 15.6,
+      "max": 24.0,
+      "median": 21.0,
+      "mean": 20.2
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 6.2,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 7.3
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 23.2,
+      "max": 27.3,
+      "median": 25.5,
+      "mean": 25.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 7.1,
+      "median": 3.5,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 14.4,
+      "max": 32.4,
+      "median": 29.3,
+      "mean": 25.4
+    },
+    "argumento_final": {
+      "min": -28.6,
+      "max": 14.0,
+      "median": 11.8,
+      "mean": -0.9
+    }
+  },
+  "LETRAS \u2013 TRADU\u00c7\u00c3O \u2013 INGL\u00caS (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 4.5,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 46.3,
+      "median": 28.2,
+      "mean": 26.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 18.2,
+      "max": 42.8,
+      "median": 28.6,
+      "mean": 27.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 5.7,
+      "median": 2.1,
+      "mean": 2.6
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 16.1,
+      "max": 42.8,
+      "median": 25.1,
+      "mean": 26.1
+    },
+    "argumento_final": {
+      "min": -22.0,
+      "max": 72.1,
+      "median": 1.7,
+      "mean": 3.8
+    }
+  },
+  "LICENCIATURA EM ARTES C\u00caNICAS": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.9,
+      "max": 0.9,
+      "median": 0.9,
+      "mean": 0.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 33.0,
+      "max": 33.0,
+      "median": 33.0,
+      "mean": 33.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 3.9,
+      "median": 3.9,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 35.1,
+      "max": 35.1,
+      "median": 35.1,
+      "mean": 35.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 2.1,
+      "median": 2.1,
+      "mean": 2.1
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 23.9,
+      "max": 23.9,
+      "median": 23.9,
+      "mean": 23.9
+    },
+    "argumento_final": {
+      "min": 18.6,
+      "max": 18.6,
+      "median": 18.6,
+      "mean": 18.6
+    }
+  },
+  "LICENCIATURA EM CI\u00caNCIAS BIOL\u00d3GICAS": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 4.5,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 52.9,
+      "median": 24.3,
+      "mean": 24.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -1.6,
+      "max": 7.8,
+      "median": 4.7,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 8.6,
+      "max": 62.5,
+      "median": 27.6,
+      "mean": 29.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 5.7,
+      "median": 2.8,
+      "mean": 3.1
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 5.9,
+      "max": 48.2,
+      "median": 27.2,
+      "mean": 25.7
+    },
+    "argumento_final": {
+      "min": -47.0,
+      "max": 116.2,
+      "median": 5.9,
+      "mean": 1.9
+    }
+  },
+  "LICENCIATURA EM F\u00cdSICA": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 3.9,
+      "median": 0.9,
+      "mean": 1.5
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 17.7,
+      "max": 39.9,
+      "median": 29.4,
+      "mean": 28.9
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 6.2,
+      "median": 3.1,
+      "mean": 3.7
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 13.0,
+      "max": 56.4,
+      "median": 31.0,
+      "mean": 30.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 5.7,
+      "median": 2.8,
+      "mean": 3.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 8.0,
+      "max": 46.1,
+      "median": 31.4,
+      "mean": 29.3
+    },
+    "argumento_final": {
+      "min": -68.1,
+      "max": 94.3,
+      "median": 23.0,
+      "mean": 14.8
+    }
+  },
+  "LICENCIATURA EM MATEM\u00c1TICA": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 5.4,
+      "median": 3.2,
+      "mean": 2.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 39.9,
+      "median": 21.6,
+      "mean": 20.8
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.8,
+      "max": 5.5,
+      "median": 3.9,
+      "mean": 3.8
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 18.7,
+      "max": 37.5,
+      "median": 26.6,
+      "mean": 27.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 5.0,
+      "median": 2.8,
+      "mean": 3.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 11.8,
+      "max": 34.5,
+      "median": 17.6,
+      "mean": 20.4
+    },
+    "argumento_final": {
+      "min": -29.8,
+      "max": 9.7,
+      "median": -8.3,
+      "mean": -9.2
+    }
+  },
+  "LICENCIATURA EM QU\u00cdMICA": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 0.0,
+      "median": 0.0,
+      "mean": 0.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 0.0,
+      "median": 0.0,
+      "mean": 0.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 8.6,
+      "max": 8.6,
+      "median": 8.6,
+      "mean": 8.6
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 21.3,
+      "max": 21.3,
+      "median": 21.3,
+      "mean": 21.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 5.7,
+      "max": 5.7,
+      "median": 5.7,
+      "mean": 5.7
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 16.1,
+      "max": 16.1,
+      "median": 16.1,
+      "mean": 16.1
+    },
+    "argumento_final": {
+      "min": -32.8,
+      "max": -32.8,
+      "median": -32.8,
+      "mean": -32.8
+    }
+  },
+  "L\u00cdNGUA E LITERATURA JAPONESA (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 5.4,
+      "mean": 4.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 38.7,
+      "median": 21.3,
+      "mean": 21.3
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 8.6,
+      "median": 3.5,
+      "mean": 4.4
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 7.0,
+      "max": 39.7,
+      "median": 19.9,
+      "mean": 20.6
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 5.0,
+      "median": 4.6,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 14.2,
+      "max": 20.3,
+      "median": 18.1,
+      "mean": 17.6
+    },
+    "argumento_final": {
+      "min": -62.9,
+      "max": 18.8,
+      "median": -33.2,
+      "mean": -29.5
+    }
+  },
+  "L\u00cdNGUA ESPANHOLA E LITERATURA ESPANHOLA E HISPANO - AMERICANA (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 2.7,
+      "max": 8.1,
+      "median": 5.9,
+      "mean": 5.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 42.0,
+      "median": 18.6,
+      "mean": 19.3
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 6.2,
+      "median": 5.5,
+      "mean": 5.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": -1.6,
+      "max": 32.3,
+      "median": 16.9,
+      "mean": 15.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 7.1,
+      "median": 5.7,
+      "mean": 4.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 6.4,
+      "max": 17.0,
+      "median": 10.2,
+      "mean": 11.2
+    },
+    "argumento_final": {
+      "min": -98.8,
+      "max": 13.7,
+      "median": -39.6,
+      "mean": -45.1
+    }
+  },
+  "L\u00cdNGUA ESTRANGEIRA APLICADA \u2013 MULTILINGUISMO E SOCIEDADE DA INFORMA\u00c7\u00c3O (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.0,
+      "median": 4.5,
+      "mean": 4.7
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 44.4,
+      "median": 28.8,
+      "mean": 26.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 17.4,
+      "max": 39.4,
+      "median": 31.0,
+      "mean": 27.6
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 13.0,
+      "max": 45.1,
+      "median": 30.0,
+      "mean": 28.4
+    },
+    "argumento_final": {
+      "min": -54.7,
+      "max": 50.3,
+      "median": 25.5,
+      "mean": 10.9
+    }
+  },
+  "L\u00cdNGUA FRANCESA E RESPECTIVA LITERATURA (BACHARELADO/LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.9,
+      "max": 7.2,
+      "median": 4.2,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 17.4,
+      "max": 37.2,
+      "median": 21.6,
+      "mean": 24.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 7.8,
+      "median": 6.6,
+      "mean": 6.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 21.3,
+      "max": 39.6,
+      "median": 29.7,
+      "mean": 30.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 3.5,
+      "median": 2.8,
+      "mean": 2.7
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 11.3,
+      "max": 24.3,
+      "median": 17.3,
+      "mean": 17.5
+    },
+    "argumento_final": {
+      "min": -44.5,
+      "max": 28.4,
+      "median": -20.6,
+      "mean": -14.3
+    }
+  },
+  "L\u00cdNGUA INGLESA E RESPECTIVA LITERATURA (BACHARELADO/LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 2.7,
+      "max": 8.1,
+      "median": 6.3,
+      "mean": 5.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 22.2,
+      "max": 43.8,
+      "median": 33.6,
+      "mean": 34.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 5.5,
+      "median": 3.9,
+      "mean": 3.8
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 19.0,
+      "max": 43.0,
+      "median": 31.8,
+      "mean": 31.6
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 6.4,
+      "median": 4.3,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 24.3,
+      "max": 37.1,
+      "median": 31.6,
+      "mean": 31.0
+    },
+    "argumento_final": {
+      "min": 3.1,
+      "max": 46.2,
+      "median": 25.4,
+      "mean": 25.3
+    }
+  },
+  "L\u00cdNGUA PORTUGUESA E RESPECTIVA LITERATURA (BACHARELADO/LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 4.5,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 45.6,
+      "median": 32.1,
+      "mean": 30.3
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 7.0,
+      "median": 5.5,
+      "mean": 5.5
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 17.0,
+      "max": 45.9,
+      "median": 30.2,
+      "mean": 31.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 5.7,
+      "median": 3.5,
+      "mean": 3.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 13.9,
+      "max": 46.1,
+      "median": 21.0,
+      "mean": 24.8
+    },
+    "argumento_final": {
+      "min": -24.6,
+      "max": 53.0,
+      "median": -0.3,
+      "mean": 12.1
+    }
+  },
+  "L\u00cdNGUA PORTUGUESA E RESPECTIVA LITERATURA (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 6.3,
+      "median": 3.6,
+      "mean": 3.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 49.9,
+      "median": 23.9,
+      "mean": 25.1
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -2.3,
+      "max": 7.0,
+      "median": 1.6,
+      "mean": 2.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 8.6,
+      "max": 40.9,
+      "median": 24.1,
+      "mean": 23.5
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 6.4,
+      "median": 2.1,
+      "mean": 2.7
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 5.7,
+      "max": 44.7,
+      "median": 17.1,
+      "mean": 20.1
+    },
+    "argumento_final": {
+      "min": -70.5,
+      "max": 78.1,
+      "median": -29.5,
+      "mean": -19.5
+    }
+  },
+  "MATEM\u00c1TICA (BACHARELADO/LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 5.4,
+      "mean": 4.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 56.8,
+      "median": 28.8,
+      "mean": 28.6
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.0,
+      "max": 8.6,
+      "median": 3.9,
+      "mean": 4.4
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 7.0,
+      "max": 58.6,
+      "median": 28.4,
+      "mean": 28.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 5.0,
+      "median": 2.8,
+      "mean": 3.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 3.8,
+      "max": 40.6,
+      "median": 25.3,
+      "mean": 23.4
+    },
+    "argumento_final": {
+      "min": -63.7,
+      "max": 91.2,
+      "median": 5.9,
+      "mean": 3.7
+    }
+  },
+  "MEDICINA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 5.4,
+      "mean": 5.4
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 49.0,
+      "max": 72.1,
+      "median": 59.5,
+      "mean": 60.2
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 7.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 62.0,
+      "max": 80.4,
+      "median": 68.2,
+      "mean": 70.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 3.5,
+      "max": 7.8,
+      "median": 6.4,
+      "mean": 5.8
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 59.3,
+      "max": 75.9,
+      "median": 64.8,
+      "mean": 66.2
+    },
+    "argumento_final": {
+      "min": 154.6,
+      "max": 206.9,
+      "median": 163.4,
+      "mean": 171.6
+    }
+  },
+  "MEDICINA VETERIN\u00c1RIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 2.7,
+      "max": 9.0,
+      "median": 5.4,
+      "mean": 6.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 25.8,
+      "max": 63.4,
+      "median": 46.9,
+      "mean": 45.1
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 2.3,
+      "max": 8.6,
+      "median": 6.2,
+      "mean": 6.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 37.5,
+      "max": 75.8,
+      "median": 48.9,
+      "mean": 51.9
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 7.8,
+      "median": 4.3,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 29.1,
+      "max": 66.2,
+      "median": 38.0,
+      "mean": 42.6
+    },
+    "argumento_final": {
+      "min": 50.4,
+      "max": 179.6,
+      "median": 61.1,
+      "mean": 87.1
+    }
+  },
+  "MUSEOLOGIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.0,
+      "median": 2.9,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 7.2,
+      "max": 51.4,
+      "median": 22.1,
+      "mean": 24.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 0.8,
+      "max": 7.8,
+      "median": 4.3,
+      "mean": 4.3
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 7.8,
+      "max": 36.7,
+      "median": 22.6,
+      "mean": 22.7
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 5.0,
+      "median": 2.5,
+      "mean": 2.8
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 6.1,
+      "max": 33.1,
+      "median": 20.2,
+      "mean": 21.7
+    },
+    "argumento_final": {
+      "min": -69.5,
+      "max": 21.7,
+      "median": -0.4,
+      "mean": -13.1
+    }
+  },
+  "M\u00daSICA (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.0,
+      "median": 7.2,
+      "mean": 5.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 19.2,
+      "max": 45.6,
+      "median": 27.6,
+      "mean": 28.2
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.1,
+      "max": 7.8,
+      "median": 4.7,
+      "mean": 5.2
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 17.2,
+      "max": 44.6,
+      "median": 26.8,
+      "mean": 30.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 10.6,
+      "max": 34.7,
+      "median": 19.9,
+      "mean": 21.2
+    },
+    "argumento_final": {
+      "min": -52.9,
+      "max": 59.1,
+      "median": -7.0,
+      "mean": 1.9
+    }
+  },
+  "NOTURNO ADMINISTRA\u00c7\u00c3O (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 4.5,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 57.7,
+      "median": 24.6,
+      "mean": 24.6
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.8,
+      "max": 7.0,
+      "median": 3.9,
+      "mean": 3.9
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 10.7,
+      "max": 53.2,
+      "median": 23.2,
+      "mean": 24.5
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 2.8,
+      "mean": 3.1
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 5.0,
+      "max": 47.0,
+      "median": 16.4,
+      "mean": 18.8
+    },
+    "argumento_final": {
+      "min": -60.4,
+      "max": 98.2,
+      "median": -35.6,
+      "mean": -19.5
+    }
+  },
+  "NUTRI\u00c7\u00c3O (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 1.8,
+      "max": 8.1,
+      "median": 6.3,
+      "mean": 5.6
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 22.5,
+      "max": 52.3,
+      "median": 40.2,
+      "mean": 40.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 6.0
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 37.2,
+      "max": 54.4,
+      "median": 44.5,
+      "mean": 44.4
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 26.2,
+      "max": 48.4,
+      "median": 36.2,
+      "mean": 36.2
+    },
+    "argumento_final": {
+      "min": 28.6,
+      "max": 94.0,
+      "median": 64.4,
+      "mean": 59.3
+    }
+  },
+  "ODONTOLOGIA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 9.9,
+      "median": 6.3,
+      "mean": 5.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 37.5,
+      "max": 55.3,
+      "median": 44.7,
+      "mean": 44.1
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 1.6,
+      "max": 8.6,
+      "median": 5.5,
+      "mean": 5.5
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 38.9,
+      "max": 66.9,
+      "median": 44.1,
+      "mean": 47.0
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 1.4,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 35.4,
+      "max": 57.0,
+      "median": 45.1,
+      "mean": 43.9
+    },
+    "argumento_final": {
+      "min": 63.9,
+      "max": 129.6,
+      "median": 81.8,
+      "mean": 83.9
+    }
+  },
+  "PEDAGOGIA (LICENCIATURA)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 4.5,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 45.0,
+      "median": 23.6,
+      "mean": 22.6
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.8,
+      "max": 7.8,
+      "median": 3.9,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 3.6,
+      "max": 37.0,
+      "median": 23.7,
+      "mean": 22.8
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 2.1,
+      "mean": 2.9
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 9.7,
+      "max": 31.7,
+      "median": 18.2,
+      "mean": 18.7
+    },
+    "argumento_final": {
+      "min": -58.7,
+      "max": 44.4,
+      "median": -27.0,
+      "mean": -22.4
+    }
+  },
+  "PSICOLOGIA (BACHARELADO / LICENCIATURA / PSIC\u00d3LOGO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.9,
+      "max": 9.9,
+      "median": 7.2,
+      "mean": 6.7
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 34.8,
+      "max": 68.5,
+      "median": 50.2,
+      "mean": 50.9
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.4,
+      "max": 8.6,
+      "median": 7.0,
+      "mean": 6.5
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 39.4,
+      "max": 66.6,
+      "median": 50.7,
+      "mean": 53.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 7.8,
+      "median": 4.6,
+      "mean": 4.4
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 36.2,
+      "max": 56.5,
+      "median": 47.9,
+      "mean": 47.9
+    },
+    "argumento_final": {
+      "min": 78.8,
+      "max": 137.8,
+      "median": 102.3,
+      "mean": 104.5
+    }
+  },
+  "QU\u00cdMICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 5.4,
+      "mean": 4.7
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 54.4,
+      "median": 22.5,
+      "mean": 25.3
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -1.3,
+      "max": 8.6,
+      "median": 3.9,
+      "mean": 4.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 1.6,
+      "max": 56.3,
+      "median": 23.4,
+      "mean": 26.3
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.7,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 3.3
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 3.1,
+      "max": 44.2,
+      "median": 23.9,
+      "mean": 23.9
+    },
+    "argumento_final": {
+      "min": -89.7,
+      "max": 89.3,
+      "median": -16.5,
+      "mean": -0.0
+    }
+  },
+  "QU\u00cdMICA TECNOL\u00d3GICA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 3.0,
+      "max": 7.2,
+      "median": 4.8,
+      "mean": 4.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 21.0,
+      "max": 46.9,
+      "median": 29.4,
+      "mean": 33.6
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.1,
+      "max": 7.0,
+      "median": 4.7,
+      "mean": 5.0
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 22.4,
+      "max": 42.4,
+      "median": 27.1,
+      "mean": 31.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 6.4,
+      "median": 3.5,
+      "mean": 4.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 17.5,
+      "max": 40.2,
+      "median": 21.3,
+      "mean": 25.7
+    },
+    "argumento_final": {
+      "min": -23.4,
+      "max": 65.9,
+      "median": -3.3,
+      "mean": 13.2
+    }
+  },
+  "RELA\u00c7\u00d5ES INTERNACIONAIS (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 1.8,
+      "max": 9.9,
+      "median": 6.3,
+      "mean": 6.6
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 37.8,
+      "max": 60.4,
+      "median": 48.2,
+      "mean": 48.3
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 4.7,
+      "max": 8.6,
+      "median": 7.8,
+      "mean": 7.3
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 38.1,
+      "max": 75.4,
+      "median": 53.1,
+      "mean": 52.6
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 2.1,
+      "max": 7.8,
+      "median": 5.7,
+      "mean": 5.7
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 37.3,
+      "max": 59.8,
+      "median": 44.1,
+      "mean": 45.5
+    },
+    "argumento_final": {
+      "min": 75.5,
+      "max": 152.7,
+      "median": 94.1,
+      "mean": 99.9
+    }
+  },
+  "SA\u00daDE COLETIVA (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 2.4,
+      "mean": 2.8
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 27.0,
+      "median": 16.8,
+      "mean": 16.5
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -6.0,
+      "max": 6.2,
+      "median": 3.1,
+      "mean": 2.1
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 7.8,
+      "max": 30.5,
+      "median": 18.9,
+      "mean": 18.2
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 3.5,
+      "median": 2.1,
+      "mean": 2.0
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 4.3,
+      "max": 20.6,
+      "median": 12.6,
+      "mean": 13.2
+    },
+    "argumento_final": {
+      "min": -68.0,
+      "max": -8.4,
+      "median": -52.4,
+      "mean": -47.9
+    }
+  },
+  "SERVI\u00c7O SOCIAL (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 8.1,
+      "median": 2.4,
+      "mean": 2.7
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 39.9,
+      "median": 18.2,
+      "mean": 19.4
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.8,
+      "max": 8.6,
+      "median": 3.9,
+      "mean": 3.7
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 7.3,
+      "max": 40.9,
+      "median": 24.9,
+      "mean": 25.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 6.4,
+      "median": 2.8,
+      "mean": 3.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 0.2,
+      "max": 42.3,
+      "median": 16.4,
+      "mean": 20.2
+    },
+    "argumento_final": {
+      "min": -90.7,
+      "max": 58.1,
+      "median": -37.9,
+      "mean": -19.2
+    }
+  },
+  "TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 1.8,
+      "max": 9.9,
+      "median": 5.9,
+      "mean": 5.9
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 26.7,
+      "max": 40.5,
+      "median": 32.4,
+      "mean": 33.0
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": 3.9,
+      "max": 7.0,
+      "median": 5.9,
+      "mean": 5.7
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 19.5,
+      "max": 43.2,
+      "median": 34.9,
+      "mean": 33.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 3.5,
+      "max": 7.1,
+      "median": 6.0,
+      "mean": 5.7
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 22.9,
+      "max": 34.7,
+      "median": 30.3,
+      "mean": 29.5
+    },
+    "argumento_final": {
+      "min": -0.1,
+      "max": 50.8,
+      "median": 26.6,
+      "mean": 26.0
+    }
+  },
+  "TERAPIA OCUPACIONAL (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 6.3,
+      "median": 3.0,
+      "mean": 3.0
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 32.7,
+      "median": 21.0,
+      "mean": 16.8
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.8,
+      "max": 8.6,
+      "median": 3.9,
+      "mean": 3.7
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": -5.2,
+      "max": 38.5,
+      "median": 23.4,
+      "mean": 20.1
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 5.7,
+      "median": 2.1,
+      "mean": 2.6
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 2.6,
+      "max": 27.9,
+      "median": 15.8,
+      "mean": 15.6
+    },
+    "argumento_final": {
+      "min": -105.2,
+      "max": 19.3,
+      "median": -42.4,
+      "mean": -37.7
+    }
+  },
+  "TURISMO (BACHARELADO)": {
+    "escore_bruto_p1_etapa1": {
+      "min": 0.0,
+      "max": 7.2,
+      "median": 1.4,
+      "mean": 2.1
+    },
+    "escore_bruto_p2_etapa1": {
+      "min": 0.0,
+      "max": 33.0,
+      "median": 26.7,
+      "mean": 21.7
+    },
+    "escore_bruto_p1_etapa2": {
+      "min": -0.5,
+      "max": 7.0,
+      "median": 3.9,
+      "mean": 3.8
+    },
+    "escore_bruto_p2_etapa2": {
+      "min": 4.9,
+      "max": 34.1,
+      "median": 15.0,
+      "mean": 14.6
+    },
+    "escore_bruto_p1_etapa3": {
+      "min": 0.2,
+      "max": 5.0,
+      "median": 1.8,
+      "mean": 2.2
+    },
+    "escore_bruto_p2_etapa3": {
+      "min": 5.0,
+      "max": 24.1,
+      "median": 13.0,
+      "mean": 13.3
+    },
+    "argumento_final": {
+      "min": -89.9,
+      "max": 12.7,
+      "median": -54.8,
+      "mean": -46.7
+    }
+  }
+}
