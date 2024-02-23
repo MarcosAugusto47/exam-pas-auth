@@ -3,9 +3,11 @@ import json
 from dotenv import load_dotenv
 load_dotenv()
 import os
+import resend
 
 # Set up the API key and endpoint
-api_key = os.environ.get('SENDINBLUE')
+#api_key = os.environ.get('SENDINBLUE')
+resend.api_key = os.environ.get('RESEND_API_KEY')
 url = "https://api.sendinblue.com/v3/smtp/email"
 
 def send_welcome_email(email):
@@ -72,20 +74,40 @@ def send_mail_pw_reset(recipient, reset_url):
         print("An error occurred: ", response.text)
 
 
+# def send_mail_verification(recipient, verification_url):
+#     headers = {"api-key": api_key, "Content-Type": "application/json"}
+
+#     params = {
+#         "sender": {"name": "The Best App", "email": "youremail@yoursite.com"},
+#         "to": [{"email": f"{recipient}"}],
+#         "subject": "Email Verification Request",
+#         "htmlContent": f"Hi there!<br><br>Please verify your email address for The Best App.<br><br>Click on the following link to verify: {verification_url}<br><br>If it wasn't you, please ignore this message.<br><br>Best,<br><br>Frederick,<br>The Best App",
+#     }
+
+#     response = requests.post(url, headers=headers, data=json.dumps(params))
+
+#     if response.status_code == 201:
+#         print("Verification email sent successfully!")
+#     else:
+#         print("An error occurred: ", response.text)
+
+
 def send_mail_verification(recipient, verification_url):
-    headers = {"api-key": api_key, "Content-Type": "application/json"}
+    #headers = {"api-key": api_key, "Content-Type": "application/json"}
 
     params = {
-        "sender": {"name": "The Best App", "email": "youremail@yoursite.com"},
-        "to": [{"email": f"{recipient}"}],
+        "from": "onboarding@resend.dev",
+        "to": [f"{recipient}"],
         "subject": "Email Verification Request",
-        "htmlContent": f"Hi there!<br><br>Please verify your email address for The Best App.<br><br>Click on the following link to verify: {verification_url}<br><br>If it wasn't you, please ignore this message.<br><br>Best,<br><br>Frederick,<br>The Best App",
+        "html": f"Hi there!<br><br>Please verify your email address for The Best App.<br><br>Click on the following link to verify: {verification_url}<br><br>If it wasn't you, please ignore this message.<br><br>Best,<br><br>Frederick,<br>The Best App",
     }
 
-    response = requests.post(url, headers=headers, data=json.dumps(params))
+    #response = requests.post(url, headers=headers, data=json.dumps(params))
 
-    if response.status_code == 201:
+    response = resend.Emails.send(params)
+
+    response_status = resend.Emails.get(response['id'])['last_event']
+    if response_status == "delivered":
         print("Verification email sent successfully!")
     else:
-        print("An error occurred: ", response.text)
-
+        print("An error occurred: ", response_status)
