@@ -24,6 +24,7 @@ class User(db.Model):
     password = db.Column(db.String(255), nullable=False)
     role_id = db.Column(db.Integer)
     email_confirmed = db.Column(db.Boolean, default=False)
+    email_confirmed_on = db.Column(db.DateTime)
     payment = db.Column(db.Boolean, nullable=False, default=False)
 
     def __repr__(self):

@@ -16,3 +16,4 @@ xgboost==1.7.1
 smart-open==6.3.0
 stripe==7.10.0
 psycopg2==2.9.9
+resend==0.7.2

@@ -4,3 +4,5 @@ drop_table.py
 key.pem
 cert.pem
 obs.txt
+*.ipynb
+*.pyc

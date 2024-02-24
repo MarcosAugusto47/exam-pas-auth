@@ -14,3 +14,4 @@ scikit-learn==1.2.2
 xgboost==1.7.1
 smart-open==6.3.0
 stripe==7.10.0
+resend==0.7.2

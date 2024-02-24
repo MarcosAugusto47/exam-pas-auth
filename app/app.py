@@ -50,18 +50,20 @@ db_password = os.environ.get('POSTGRES_PASSWORD')
 CORS(app)
 
 # MySQL configuration
-#DATABASE_URL = f"mysql -roundhouse.proxy.rlwy.net -uroot -p{db_password} --port 35112 --protocol=TCP railway"
-DATABASE_URL = f"postgres://rnudzlcskumoue:{db_password}@ec2-54-167-29-148.compute-1.amazonaws.com:5432/d9a73e9glockc"
-SQLALCHEMY_DATABASE_URI = f"postgresql://rnudzlcskumoue:{db_password}@ec2-54-167-29-148.compute-1.amazonaws.com:5432/d9a73e9glockc"
+DATABASE_URL = f"mysql -roundhouse.proxy.rlwy.net -uroot -p{db_password} --port 35112 --protocol=TCP railway"
+#DATABASE_URL = f"postgres://rnudzlcskumoue:{db_password}@ec2-54-167-29-148.compute-1.amazonaws.com:5432/d9a73e9glockc"
+DATABASE_URL = f"postgres://swaptmnedmfags:{db_password}@ec2-44-218-31-43.compute-1.amazonaws.com:5432/dcljvlu8biq0bs"
+#SQLALCHEMY_DATABASE_URI = f"postgresql://rnudzlcskumoue:{db_password}@ec2-54-167-29-148.compute-1.amazonaws.com:5432/d9a73e9glockc"
+SQLALCHEMY_DATABASE_URI = f"postgresql://swaptmnedmfags:{db_password}@ec2-44-218-31-43.compute-1.amazonaws.com:5432/dcljvlu8biq0bs"
 app.config['SQLALCHEMY_DATABASE_URI'] = SQLALCHEMY_DATABASE_URI
 db.init_app(app)
 
 DATABASE_CONFIG = {
-            'user': 'rnudzlcskumoue',
+            'user': 'swaptmnedmfags',
             'password': os.environ.get('POSTGRES_PASSWORD'),
-            'host': 'ec2-54-167-29-148.compute-1.amazonaws.com',
+            'host': 'ec2-44-218-31-43.compute-1.amazonaws.com',
             'port': '5432',
-            'database': 'd9a73e9glockc'
+            'database': 'dcljvlu8biq0bs'
         }
 
 # def get_db():
@@ -189,7 +191,7 @@ def login():
             # Check if the email is confirmed, assuming email_confirmed is the 7th column (index 6)
             if not user[5]:  # Adjust the index if necessary
                 flash('Please verify your email before logging in. Check your inbox.')
-                #return redirect(url_for('login'))
+                return redirect(url_for('login'))
 
             user_obj = UserMixin()
             user_obj.id = user[0]
@@ -239,7 +241,7 @@ def get_publishable_key():
 @app.route("/create-checkout-session")
 def create_checkout_session():
 
-    domain_url = os.environ.get("DOMAIN_URL", "http://127.0.0.1:5000/")
+    domain_url = os.environ.get("DOMAIN_URL", "http://127.0.0.1:8080/")
     stripe.api_key = stripe_keys["secret_key"]
 
     try:
@@ -756,7 +758,7 @@ def result():
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
-    port = int(os.environ.get("PORT", 5000))
+    port = int(os.environ.get("PORT", 8080))
     app.run(
         #ssl_context=('cert.pem', 'key.pem'),
         debug=True,
