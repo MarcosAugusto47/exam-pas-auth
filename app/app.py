@@ -254,6 +254,7 @@ def create_checkout_session():
         # For full details see https://stripe.com/docs/api/checkout/sessions/create
 
         # ?session_id={CHECKOUT_SESSION_ID} means the redirect will have the session ID set as a query param
+        print("Entering checkout session...")
         checkout_session = stripe.checkout.Session.create(
             #client_reference_id=current_user.id if current_user.is_authenticated else None,
             success_url=domain_url + "success?session_id={CHECKOUT_SESSION_ID}",
@@ -262,7 +263,8 @@ def create_checkout_session():
             mode="payment",
             line_items=[
                 {
-                    "price": "price_1OTwBXD1X8yObih9MXQpufKP",
+                    #"price": "price_1OTwBXD1X8yObih9MXQpufKPcunhado",
+                    "price": "price_1OnqreD1X8yObih9XemgzHbB",
                     #"name": "T-shirt",
                     "quantity": 1,
                     #"currency": "usd",
@@ -273,6 +275,7 @@ def create_checkout_session():
         )
         return jsonify({"sessionId": checkout_session["id"]})
     except Exception as e:
+        print("Checkout session failed...")
         return jsonify(error=str(e)), 403
 
 
