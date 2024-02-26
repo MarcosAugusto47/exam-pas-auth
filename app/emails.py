@@ -17,7 +17,7 @@ def send_welcome_email(email):
         "from": "noreply@pasvision.xyz",
         "to": [f"{email}"],
         "subject": "Bem-vindo a PAS Vision 📚",
-        "html": "Olá, estudante!📝<br><br>Muito obrigado, por se juntar à PAS Vision, sua ferramenta de analytics para o Exame PAS UNB. 💻"
+        "html": "Olá, estudante! 📝<br><br>Muito obrigado, por se juntar à PAS Vision, sua ferramenta de analytics para o Exame PAS UNB. 💻"
         "<br><br>✅ Probabilidade de aprovação.<br>✅ Estatísticas de desempenho dos candidatos aprovados.<br>✅ Explore cenários."
         "<br><br>Não hesite em entrar em contato se tiver alguma dúvida ou feedback."            
         "<br><br>Até breve,<br><br>PAS Vision Group,<br>PAS Vision App",
