@@ -565,7 +565,7 @@ def submit_form():
     db.session.add(user_usage)
     db.session.commit()
 
-    usage_threshold = 5  # Set your desired threshold
+    usage_threshold = 20  # Set your desired threshold
     user = User.query.filter_by(email=user_id).first()
     print(f"user.payment: {user.payment}")
 
