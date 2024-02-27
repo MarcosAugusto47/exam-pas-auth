@@ -69,7 +69,7 @@ def send_mail_pw_reset(recipient, reset_url):
         "from": "noreply@pasvision.xyz",
         "to": [f"{recipient}"],
         "subject": "Password Reset Request",
-        "html": f"Hi there!<br><br>You have requested to reset your password.<br><br>Please click on the following link to choose a new password: {reset_url}<br><br>If it wasn't you, please ignore this message.<br><br>Best,<br><br>PAS Vision Group,<br>PAS Vision App",
+        "html": f"Olá, estudante! 📝<br><br>Você requisitou reset de password. 💻<br><br>Por favor, clique no seguinte link, para escolher nova password: {reset_url}<br><br>Se não foi você, por favor ignore a mensagem.<br><br>Best,<br><br>PAS Vision Group,<br>PAS Vision App",
     }
 
     #response = requests.post(url, headers=headers, data=json.dumps(params))
@@ -109,7 +109,7 @@ def send_mail_verification(recipient, verification_url):
         "from": "noreply@pasvision.xyz",
         "to": [f"{recipient}"],
         "subject": "Email Verification Request",
-        "html": f"Hi there!<br><br>Please verify your email address for PAS Vision App.<br><br>Click on the following link to verify: {verification_url}<br><br>If it wasn't you, please ignore this message.<br><br>Best,<br><br>PAS Vision Group,<br>PAS Vision App",
+        "html": f"Olá, estudante! 📝<br><br>Por favor, verifique seu endereço de email para PAS Vision App.<br><br>Clique no seguinte link para verificar: {verification_url}<br><br>Se não foi você, por favor ignore a mensagem.<br><br>Best,<br><br>PAS Vision Group,<br>PAS Vision App",
     }
 
     #response = requests.post(url, headers=headers, data=json.dumps(params))
